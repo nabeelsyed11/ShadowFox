@@ -7,7 +7,7 @@
 Biginner_level/
 ├── Biginner_level.ipynb
 ├── README.md
-└── requirements.txt  # (If applicable)
+└── requirements.txt
 ```
 
 ## 🚀 Project Overview
