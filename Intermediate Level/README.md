@@ -7,7 +7,7 @@
 Loan_Prediction/
 ├── Loan_Prediction.ipynb
 ├── README.md
-└── requirements.txt  # (If applicable)
+└── requirements.txt
 ```
 
 ## 🚀 Project Overview
