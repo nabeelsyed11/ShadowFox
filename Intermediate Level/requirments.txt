@@ -1,4 +1,5 @@
 Pandas
 numpy
 matplotlib
-seaboarn
+Scikit-learn
+Seaboarn
