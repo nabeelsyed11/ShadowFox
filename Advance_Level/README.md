@@ -53,7 +53,7 @@ python app.py
 ```
 
 ## Project Link
-Click me:(Click me) [https://augzkpwcujv4w8spusneak.streamlit.app/]
+Click me: [https://augzkpwcujv4w8spusneak.streamlit.app/]
 
 
 ## Requirements
