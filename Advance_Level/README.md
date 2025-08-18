@@ -1,95 +1,83 @@
-# 🧠 LLM Playground - NLP & ML Project  
+# GPT2 Project
 
-This project explores **Language Models (LMs)** in Natural Language Processing (NLP).  
-It provides a **Jupyter Notebook** for experimentation and a **Streamlit frontend** for interactive testing.  
+A small project demonstrating the use of GPT‑2 (via a Jupyter notebook and a Flask-based app).
 
-## 📌 Features
-- **Language Model Selection** → DistilBERT, BERT, GPT-2  
-- **Text Classification / Cloze Task** → Fill-in-the-blank using Masked LMs  
-- **Text Generation** → Creative sentence generation with GPT-2  
-- **Pseudo-Perplexity Evaluation** → Estimate fluency of generated sentences  
-- **Visualization** → Compare model performance with bar charts  
-- **Research Insights** → Strengths, weaknesses, and future applications  
+## Overview
 
----
+This project includes:
 
-## 📂 Project Structure
-LLM_Project/
-│── LLM_Project.ipynb # Jupyter notebook with full workflow
-│── app.py # Streamlit frontend for interactive testing
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
+- `LLM_Project.ipynb`: An exploratory Jupyter notebook showcasing how to load and use GPT‑2 (e.g., text generation, fine-tuning visuals).
+- `app.py`: A simple web application (likely using Flask) that serves a UI for interacting with the GPT‑2 model.
+- `requirements.txt`: Lists the necessary Python packages.
 
----
+## Features
 
-## ⚙️ Installation
+- Load and test GPT‑2 model interactively in a notebook.
+- Deploy a local web app for easier usage and experimentation.
 
-Clone this repo and install dependencies:
+## Getting Started
+
+### Prerequisites
+
+- Python 3.7+
+- (Optional) Virtual environment tool (venv, conda, etc.)
+
+### Installation
 
 ```bash
-git clone https://github.com/yourusername/LLM_Project.git
-cd LLM_Project
+git clone https://github.com/nabeelsyed11/GPT2.git
+cd GPT2
+python3 -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
-## 📓 Jupyter Notebook
 
-Run the notebook to explore:
+### Usage
+
+#### 1. Notebook Workflow
+
+Launch the notebook:
+
+```bash
 jupyter notebook LLM_Project.ipynb
+```
 
-streamlit run app.py
+Run through the cells to see GPT‑2 in action (e.g., text generation, analysis).
 
-## Features:
+#### 2. Web App
 
-Select LM (DistilBERT / BERT / GPT-2)
+Start the app:
 
-Try text completion and generation
+```bash
+python app.py
+```
 
-Evaluate pseudo-perplexity
+Visit `http://127.0.0.1:5000` in your browser to interact with the model.
 
-See visual comparisons
+## Requirements
 
-## 📊 Example Outputs
-Masked Language Modeling
+Key dependencies include:
 
-Input:
-The capital of France is [MASK].
-Output Predictions:
+- Flask
+- Transformers
+- (List other libraries from `requirements.txt`)
 
-Paris (0.98)
+See `requirements.txt` for the full list.
 
-Lyon (0.01)
+## Project Structure
 
-GPT-2 Text Generation
+- `LLM_Project.ipynb`: Notebook for experimentation  
+- `app.py`: Web app interface  
+- `requirements.txt`: Python dependencies
 
-Prompt:
-Artificial Intelligence will
-Generated:
-Artificial Intelligence will revolutionize industries and transform the way humans interact with technology.
+## Contributing
 
-## ❓ Research Questions
+Feel free to open issues or submit pull requests! Suggestions for features such as custom prompts, model options, or UI improvements are welcome.
 
-How well do LMs understand context?
+## License
 
-Can GPT-2 maintain coherence in long text?
+This project is licensed under the MIT License — see the `LICENSE` file for details (add one if not present).
 
-How do DistilBERT and BERT compare in accuracy for cloze tasks?
+## Contact
 
-What are the limitations of pseudo-perplexity in evaluating fluency?
-
-## ✅ Conclusion
-
-This project demonstrates the capabilities and limitations of modern Language Models.
-
-DistilBERT → Lightweight, fast, but less accurate.
-
-BERT → Strong contextual understanding.
-
-GPT-2 → Excellent text generation but weaker at cloze tasks.
-
-Future work: fine-tuning on domain-specific datasets, exploring larger LMs like GPT-3 or LLaMA, and integrating explainability tools.
-
-## 👨‍💻 Author
-
-Developed by [Syed Nabeel Ahmed] as part of an NLP & ML exploration project.
-
----
+Created by Nabeel Syed. Reach out via GitHub profile for questions or collaboration!
