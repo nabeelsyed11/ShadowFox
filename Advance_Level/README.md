@@ -31,14 +31,14 @@ git clone https://github.com/yourusername/LLM_Project.git
 cd LLM_Project
 pip install -r requirements.txt
 ```
-📓 Jupyter Notebook
+## 📓 Jupyter Notebook
 
 Run the notebook to explore:
 jupyter notebook LLM_Project.ipynb
 
 streamlit run app.py
 
-Features:
+## Features:
 
 Select LM (DistilBERT / BERT / GPT-2)
 
@@ -48,7 +48,7 @@ Evaluate pseudo-perplexity
 
 See visual comparisons
 
-📊 Example Outputs
+## 📊 Example Outputs
 Masked Language Modeling
 
 Input:
@@ -66,7 +66,7 @@ Artificial Intelligence will
 Generated:
 Artificial Intelligence will revolutionize industries and transform the way humans interact with technology.
 
-❓ Research Questions
+## ❓ Research Questions
 
 How well do LMs understand context?
 
@@ -76,7 +76,7 @@ How do DistilBERT and BERT compare in accuracy for cloze tasks?
 
 What are the limitations of pseudo-perplexity in evaluating fluency?
 
-✅ Conclusion
+## ✅ Conclusion
 
 This project demonstrates the capabilities and limitations of modern Language Models.
 
@@ -88,12 +88,8 @@ GPT-2 → Excellent text generation but weaker at cloze tasks.
 
 Future work: fine-tuning on domain-specific datasets, exploring larger LMs like GPT-3 or LLaMA, and integrating explainability tools.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by [Syed Nabeel Ahmed] as part of an NLP & ML exploration project.
-
----
-
-👉 Do you also want me to generate a **downloadable `README.md` file** (so you don’t have to copy-paste)?
 
 ---
