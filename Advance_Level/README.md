@@ -52,11 +52,8 @@ Start the app:
 python app.py
 ```
 
-```bash
-Visit--> "https://augzkpwcujv4w8spusneak.streamlit.app/"
-to explore the project
-```
-
+## Project Link
+https://augzkpwcujv4w8spusneak.streamlit.app/
 
 
 ## Requirements
