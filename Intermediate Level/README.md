@@ -96,11 +96,6 @@ The dataset contains details of loan applicants and whether their loans were app
 
 ---
 
-## 📷 Sample Output  
-_Add some plots/screenshots from the notebook here (accuracy scores, confusion matrix, etc.)_  
-
----
-
 ## 🙌 Contribution  
 Contributions are welcome!  
 Feel free to **fork the repo** and submit a **pull request**.  
