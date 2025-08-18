@@ -122,8 +122,8 @@ The CNN model is built using the **Keras Functional API**:
 
 ## 📬 Author  
 👤 **Your Name**  
-- GitHub: [your-username](https://github.com/your-username)  
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)  
+- [GitHub]:(https://github.com/nabeelsyed11)  
+- [LinkedIn]:(https://www.linkedin.com/in/syed-ahmed-64052a32a/)  
 
 ---
 
