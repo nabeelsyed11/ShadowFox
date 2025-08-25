@@ -16,9 +16,16 @@ Each project is organized in its own folder with source code, documentation, and
 ---
 
 ### 2. [Intermediate_Level](./Project2/)
-- 🔹 **Description:** Short description here.
+- 🔹 **Description:** This project predicts loan approvals using machine learning techniques.
+It covers the complete ML workflow including:
+
+Data preprocessing
+Exploratory Data Analysis (EDA)
+Feature engineering
+Model training and evaluation
+Comparison of different algorithms
 - 🔹 **Tech Stack:** e.g., React, Flask, MongoDB
-- 🔹 **Demo Link:** [Click Here](https://your-webapp-link.com)
+- 🔹 **Demo Link:** [Click Here]()
 
 ---
 
