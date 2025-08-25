@@ -1,6 +1,4 @@
-matplotlib
-numpy
-pandas
-seaborn
-scikit-learn
+streamlit
 tensorflow
+numpy
+pillow
