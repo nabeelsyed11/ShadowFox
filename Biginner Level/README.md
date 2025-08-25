@@ -87,6 +87,11 @@ The CNN model is built using the **Keras Functional API**:
 
 ---
 
+## 🌐 Live Web App  
+👉 [Click here to try the app](https://prediction-bauz83hmln4cshc9tfjb7q.streamlit.app/)
+
+---
+
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```bash
