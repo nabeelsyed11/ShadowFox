@@ -9,7 +9,7 @@ Each project is organized in its own folder with source code, documentation, and
 
 ### 1. [Biginner_Level](./Project1/)
 - 🔹 **Description:** This project demonstrates image classification using a Convolutional Neural Network (CNN) built with TensorFlow/Keras.
-The model is trained on the CIFAR-10 dataset, which contains 60,000 color images (32×32 pixels) in 10 different classes.
+       The model is trained on the CIFAR-10 dataset, which contains 60,000 color images (32×32 pixels) in 10 different classes.
 - 🔹 **Tech Stack:** Python, Streamlit, ML, etc.
 - 🔹 **Demo Link:** [Click Here](https://prediction-bauz83hmln4cshc9tfjb7q.streamlit.app/)
 
