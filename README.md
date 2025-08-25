@@ -10,7 +10,7 @@ Each project is organized in its own folder with source code, documentation, and
 ### 1. [Biginner_Level](./Project1/)
 - 🔹 **Description:** Short 1–2 line explanation of what the project does.
 - 🔹 **Tech Stack:** Python, Streamlit, ML, etc.
-- 🔹 **Demo Link:** [Click Here](https://your-webapp-link.com) *(if deployed)*
+- 🔹 **Demo Link:** [Click Here](https://prediction-bauz83hmln4cshc9tfjb7q.streamlit.app/)
 
 ---
 
