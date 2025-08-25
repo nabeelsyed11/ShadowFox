@@ -1,0 +1,35 @@
+# 🚀 ShadowFox Internship Projects
+
+This repository contains all the projects I developed during my internship at **ShadowFox**.  
+Each project is organized in its own folder with source code, documentation, and demo (if available).
+
+---
+
+## 📂 Projects List
+
+### 1. [Biginner_Level](./Project1/)
+- 🔹 **Description:** Short 1–2 line explanation of what the project does.
+- 🔹 **Tech Stack:** Python, Streamlit, ML, etc.
+- 🔹 **Demo Link:** [Click Here](https://your-webapp-link.com) *(if deployed)*
+
+---
+
+### 2. [Intermediate_Level](./Project2/)
+- 🔹 **Description:** Short description here.
+- 🔹 **Tech Stack:** e.g., React, Flask, MongoDB
+- 🔹 **Demo Link:** [Click Here](https://your-webapp-link.com)
+
+---
+
+### 3. [Advanace_Level](./Project3/)
+- 🔹 **Description:** Short description here.
+- 🔹 **Tech Stack:** Mention tools/frameworks used.
+- 🔹 **Demo Link:** [Click Here](https://your-webapp-link.com)
+
+---
+
+## 📖 How to Use
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/ShadowFox.git
+   ```
